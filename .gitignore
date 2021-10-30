@@ -1,0 +1,4 @@
+model
+flownetsbn,adam,200epochs,b64,lr0.001
+flownetsbn_adam_200epochs_b64_lr0.001
+devkit_scene_flow.zip
